@@ -36,6 +36,7 @@ Examples/ROS/ros_mono
 Examples/ROS/ros_stereo
 Examples/ROS/ros_rgbd_mapping
 
+Examples/ROS/bak_exe/*
 
 Examples/Calibration/recorder_realsense_D435i
 
